@@ -1,1 +1,7 @@
-Hello sunshine
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Hello sunshine</h2>
+<img src="">
+</body>
+</html>
